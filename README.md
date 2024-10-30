@@ -15,3 +15,11 @@
 - html을 시맨틱하게 뼈대를 잘 쌓아놓아야 나중에 css를 할때 클래스 선정과 여러가지가 매끄럽게 진행될 수 있다는 걸 느꼈다.
 - github에 pull하고 push하는 과정에서 실수를 해가며 많이 배웠고, 이해하게 되어 의미 있는 과제 였다. 
 - 팀워크는 좋았으나 다음에는 시간 배분을 잘해서 더 멋있는 웹페이지를 만들어보고 싶다. 
+
+타팀 GitHub URL:
+1팀 저장소
+https://github.com/cafephilia/monami-clone
+2팀 저장소
+https://github.com/mjkim41/genesis-web-clone
+4팀 저장소
+https://github.com/ThoI-i/1st-PJ-CSS-Clone
